@@ -1,5 +1,7 @@
-## Language 
-Python
+## Name: Shebin Shamsuddeen
+## Language: Python
 
-## Comments
-2nd and 3rd questions are same
+
+Run this script using: python script.py 
+User inputs are handled with the built-in input() function.
+Outputs printed to the terminal.
