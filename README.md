@@ -1,4 +1,4 @@
-## Language used
+## Language 
 Python
 
 ## Comments
